@@ -1,6 +1,6 @@
-1. In this repository there is my Final Project.
+1. In this repository there is my Final Project about ML and Econometrics.
 
-2. The project it's builded with Python (95%).
+2. The project it's builded with Python (99%).
 
 3. STATA files are only to check some results.
 
