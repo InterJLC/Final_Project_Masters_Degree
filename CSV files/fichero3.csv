@@ -1,0 +1,830 @@
+Gender,Education,Work Exp,Programming Exp,Status
+F,Graduate,Yes,1,Y
+M,Graduate,Yes,0,N
+M,Not Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Graduate,No,1,N
+F,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Not Graduate,No,1,Y
+M,Not Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Not Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+F,Not Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,1,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Not Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,1,N
+M,Not Graduate,No,0,N
+M,Not Graduate,No,1,Y
+F,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+F,Graduate,No,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,N
+F,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,N
+M,Not Graduate,Yes,0,N
+M,Not Graduate,No,0,Y
+F,Graduate,No,0,N
+M,Graduate,No,0,Y
+F,Graduate,Yes,0,N
+M,Graduate,Yes,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,N
+F,Graduate,No,0,N
+F,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+F,Graduate,No,1,N
+F,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+F,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,No,0,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+F,Graduate,No,1,N
+F,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,No,1,N
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+M,Graduate,No,0,Y
+F,Not Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+F,Not Graduate,Yes,1,N
+M,Graduate,No,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+F,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,N
+F,Not Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,N
+F,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+F,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+F,Not Graduate,Yes,0,N
+M,Graduate,No,1,Y
+F,Graduate,No,0,Y
+F,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,1,Y
+M,Not Graduate,No,1,N
+M,Not Graduate,No,0,N
+M,Graduate,No,1,Y
+M,Not Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Not Graduate,No,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,1,N
+F,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,No,1,N
+F,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,1,N
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Not Graduate,No,1,Y
+F,Graduate,Yes,0,Y
+F,Not Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+F,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+F,Not Graduate,No,0,Y
+F,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,Y
+F,Graduate,No,1,N
+F,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Not Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,N
+F,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+F,Graduate,Yes,0,Y
+F,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,Yes,1,N
+F,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+F,Graduate,No,0,N
+F,Not Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,1,Y
+F,Graduate,No,0,Y
+F,Graduate,Yes,0,Y
+F,Graduate,Yes,0,N
+M,Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+F,Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+F,Graduate,No,1,N
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,Y
+M,Not Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,1,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,1,Y
+M,Graduate,Yes,0,N
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,N
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,1,N
+M,Not Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,1,Y
+F,Graduate,No,1,Y
+F,Graduate,Yes,1,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Not Graduate,Yes,1,Y
+F,Graduate,No,1,N
+F,Not Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,N
+F,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,0,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+M,Graduate,Yes,1,N
+F,Graduate,Yes,1,N
+F,Graduate,No,1,N
+F,Not Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,N
+F,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+F,Not Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,N
+F,Graduate,Yes,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,N
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,N
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Not Graduate,No,1,Y
+F,Not Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,N
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,N
+F,Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+F,Graduate,No,0,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Not Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,N
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+F,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Not Graduate,Yes,0,N
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+F,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,Y
+M,Not Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,Y
+F,Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Graduate,No,0,Y
+F,Graduate,Yes,0,Y
+M,Not Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+F,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Not Graduate,No,0,Y
+M,Graduate,No,1,Y
+F,Graduate,Yes,0,N
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Not Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+M,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+F,Graduate,Yes,0,N
+M,Not Graduate,No,0,N
+F,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,N
+M,Not Graduate,Yes,0,N
+M,Graduate,No,0,N
+M,Graduate,Yes,0,N
+F,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+F,Not Graduate,Yes,1,N
+M,Not Graduate,No,0,N
+F,Graduate,No,1,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+F,Not Graduate,No,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,1,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+F,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+M,Not Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Not Graduate,No,1,N
+M,Graduate,No,1,Y
+F,Graduate,Yes,1,N
+M,Graduate,Yes,1,N
+F,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,0,N
+M,Not Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Not Graduate,No,1,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Not Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,N
+F,Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+F,Graduate,No,0,N
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,1,N
+F,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+F,Graduate,Yes,0,Y
+F,Graduate,No,0,Y
+F,Graduate,Yes,1,Y
+F,Graduate,No,0,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,0,N
+M,Graduate,No,1,N
+F,Graduate,No,0,Y
+F,Not Graduate,Yes,1,Y
+F,Graduate,No,0,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Not Graduate,No,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+F,Not Graduate,No,1,N
+F,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,N
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+F,Graduate,Yes,1,Y
+M,Not Graduate,No,1,N
+M,Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,1,N
+M,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,N
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,N
+F,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,No,1,N
+M,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,N
+M,Graduate,No,1,N
+M,Graduate,Yes,0,N
+M,Graduate,Yes,0,N
+M,Graduate,No,1,N
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,0,N
+M,Graduate,No,1,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+M,Not Graduate,No,1,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+F,Graduate,Yes,1,Y
+F,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Not Graduate,No,1,N
+F,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+F,Not Graduate,No,1,N
+M,Graduate,No,1,N
+M,Not Graduate,Yes,1,Y
+F,Graduate,No,1,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+F,Not Graduate,No,1,Y
+M,Not Graduate,No,0,N
+M,Graduate,No,1,N
+M,Graduate,No,1,Y
+F,Graduate,No,0,Y
+F,Graduate,No,0,N
+M,Graduate,Yes,0,N
+F,Graduate,Yes,0,N
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,1,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,Yes,0,N
+F,Graduate,Yes,0,Y
+M,Not Graduate,No,1,Y
+M,Not Graduate,No,0,Y
+F,Graduate,No,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,0,N
+F,Not Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,Yes,0,Y
+M,Graduate,No,1,Y
+M,Not Graduate,No,1,Y
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,N
+M,Graduate,No,0,N
+F,Not Graduate,Yes,1,N
+F,Graduate,No,1,Y
+M,Not Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,Y
+F,Graduate,No,1,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,N
+F,Graduate,No,1,N
+M,Graduate,No,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,1,Y
+M,Graduate,No,0,Y
+F,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Graduate,Yes,0,Y
+F,Graduate,Yes,0,Y
+M,Graduate,Yes,1,Y
+M,Graduate,Yes,0,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,1,N
+F,Graduate,No,1,N
+M,Not Graduate,Yes,0,Y
+M,Graduate,No,1,N
+M,Graduate,Yes,0,Y
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,No,0,N
+F,Graduate,No,1,N
+M,Graduate,Yes,1,N
+M,Graduate,No,0,Y
+M,Graduate,Yes,0,Y
+M,Graduate,No,0,Y
+M,Graduate,No,1,Y
+M,Not Graduate,No,0,N
+M,Graduate,No,0,Y
+M,Graduate,No,0,N
+M,Not Graduate,Yes,0,Y
+M,Not Graduate,No,1,Y
+F,Not Graduate,Yes,0,Y
+M,Not Graduate,Yes,1,Y
+F,Graduate,No,1,N
+F,Graduate,No,0,Y

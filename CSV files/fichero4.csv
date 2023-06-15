@@ -1,0 +1,830 @@
+Gender,Education,Work Exp,Programming Exp,Assurance,Matching,Status
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,1,1.0,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,1,0.5,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+F,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Not Graduate,Yes,1,0.5,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Not Graduate,Yes,1,0.5,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,N
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,1,0.5,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,1,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+F,Not Graduate,Yes,1,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+F,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,1,0.5,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Not Graduate,Yes,1,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+F,Not Graduate,No,0,0.0,NOPE,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+F,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Not Graduate,No,1,0.17,NOPE,Y
+F,Not Graduate,No,0,0.0,NOPE,N
+F,Not Graduate,No,1,0.17,NOPE,Y
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,1,1.0,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,0,0.5,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,Yes,0,0.83,NOPE,N
+F,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,NOPE,N
+F,Graduate,Yes,1,1.0,NOPE,N
+F,Graduate,Yes,0,0.83,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,1,0.67,OK,Y
+F,Not Graduate,Yes,1,0.5,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+F,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,Yes,1,1.0,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Not Graduate,No,1,0.17,NOPE,N
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,No,0,0.5,NOPE,N
+F,Not Graduate,No,0,0.0,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+M,Graduate,No,1,0.67,OK,Y
+M,Not Graduate,Yes,0,0.33,NOPE,N
+M,Graduate,No,1,0.67,OK,Y
+F,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+F,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,Yes,0,0.83,NOPE,N
+M,Graduate,No,1,0.67,NOPE,N
+M,Not Graduate,Yes,0,0.33,NOPE,Y
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
+M,Graduate,No,1,0.67,NOPE,N
+M,Graduate,No,0,0.5,OK,Y
+M,Graduate,Yes,0,0.83,OK,Y
